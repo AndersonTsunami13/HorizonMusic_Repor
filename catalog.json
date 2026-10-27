@@ -9,7 +9,7 @@
       "album": "Phonk",
       "source": "music/MEOW_BOSS_Super_Slowed.mp3",
       "cover": "covers/MEOW_BOSS_Super_Slowed.jpg",
-      "duration": 0
+      "duration": 334
     },
     {
       "id": "faixa-002",
@@ -18,7 +18,7 @@
       "album": "Funk",
       "source": "music/Ta_Pedindo_Toma.mp3",
       "cover": "covers/Ta_Pedindo_Toma.jpg",
-      "duration": 0
+      "duration": 275
     }
   ]
 }
