@@ -4,20 +4,20 @@
   "songs": [
     {
       "id": "faixa-001",
-      "title": "Minha Primeira Música",
-      "artist": "Anderson Tsunami",
-      "album": "Horizon Originals",
-      "source": "music/minha-musica.mp3",
-      "cover": "covers/minha-capa.jpg",
+      "title": "MEOW BOSS (Super Slowed)",
+      "artist": "Desconhecido",
+      "album": "Phonk",
+      "source": "music/MEOW BOSS (Super Slowed).mp3",
+      "cover": "covers/MEOW BOSS (Super Slowed).jpg",
       "duration": 0
     },
     {
       "id": "faixa-002",
-      "title": "Noite Digital",
-      "artist": "Anderson Tsunami",
-      "album": "Horizon Originals",
-      "source": "music/noite-digital.mp3",
-      "cover": "covers/noite-digital.jpg",
+      "title": "Ta Pedindo Toma",
+      "artist": "Desconhecido",
+      "album": "Funk",
+      "source": "music/Ta Pedindo Toma.mp3",
+      "cover": "covers/Ta Pedindo Toma.jpg",
       "duration": 0
     }
   ]
