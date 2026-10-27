@@ -1,0 +1,24 @@
+
+{
+  "schema_version": 1,
+  "songs": [
+    {
+      "id": "faixa-001",
+      "title": "Minha Primeira Música",
+      "artist": "Anderson Tsunami",
+      "album": "Horizon Originals",
+      "source": "music/minha-musica.mp3",
+      "cover": "covers/minha-capa.jpg",
+      "duration": 0
+    },
+    {
+      "id": "faixa-002",
+      "title": "Noite Digital",
+      "artist": "Anderson Tsunami",
+      "album": "Horizon Originals",
+      "source": "music/noite-digital.mp3",
+      "cover": "covers/noite-digital.jpg",
+      "duration": 0
+    }
+  ]
+}
