@@ -7,8 +7,8 @@
       "title": "MEOW BOSS (Super Slowed)",
       "artist": "Desconhecido",
       "album": "Phonk",
-      "source": "music/MEOW BOSS (Super Slowed).mp3",
-      "cover": "covers/MEOW BOSS (Super Slowed).jpg",
+      "source": "music/MEOW_BOSS_Super_Slowed.mp3",
+      "cover": "covers/MEOW_BOSS_Super_Slowed.jpg",
       "duration": 0
     },
     {
@@ -16,8 +16,8 @@
       "title": "Ta Pedindo Toma",
       "artist": "Desconhecido",
       "album": "Funk",
-      "source": "music/Ta Pedindo Toma.mp3",
-      "cover": "covers/Ta Pedindo Toma.jpg",
+      "source": "music/Ta_Pedindo_Toma.mp3",
+      "cover": "covers/Ta_Pedindo_Toma.jpg",
       "duration": 0
     }
   ]
