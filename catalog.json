@@ -4,6 +4,51 @@
   "songs": [
     {
       "id": "faixa-001",
+      "title": "After Laughter",
+      "artist": "Desconhecido",
+      "album": "",
+      "source": "music/After Laughter.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-002",
+      "title": "Bigodin finin",
+      "artist": "Desconhecido",
+      "album": "",
+      "source": "music/BIGODIN FININ.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-003",
+      "title": "Desande comunhão e droga",
+      "artist": "Desconhecido",
+      "album": "",
+      "source": "music/DESANDE COMUNHÃO E DROGA.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-004",
+      "title": "Desande goiano",
+      "artist": "Desconhecido",
+      "album": "",
+      "source": "music/DESANDE GOIANO.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-005",
+      "title": "Eletrofunk got you baby",
+      "artist": "Desconhecido",
+      "album": "",
+      "source": "music/ELETROFUNK GOT YOU BABY.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-006",
       "title": "MEOW BOSS (Super Slowed)",
       "artist": "@_SUKA",
       "album": "Phonk",
@@ -12,13 +57,67 @@
       "duration": 334
     },
     {
-      "id": "faixa-002",
+      "id": "faixa-007",
+      "title": "No pique",
+      "artist": "",
+      "album": "",
+      "source": "music/NO PIQUE.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-008",
+      "title": "OLha a cor dessa agua",
+      "artist": "",
+      "album": "",
+      "source": "music/OLHA A COR DESSA AGOA.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-009",
+      "title": "Oh oh oh natal",
+      "artist": "",
+      "album": "",
+      "source": "music/Oh oh oh Natal.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-010",
+      "title": "Sem sentimento algum",
+      "artist": "",
+      "album": "",
+      "source": "music/Sem Sentimento Algum.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-011",
+      "title": "Só botada",
+      "artist": "",
+      "album": "",
+      "source": "music/Só Botada.mp3",
+      "cover": "",
+      "duration": 0
+    },
+    {
+      "id": "faixa-012",
       "title": "Ta Pedindo Toma",
       "artist": "@MCLeozinhoZS_(YouTube)",
       "album": "Funk",
       "source": "music/Ta_Pedindo_Toma.mp3",
       "cover": "covers/Ta_Pedindo_Toma.jpeg",
       "duration": 275
-    }
+    },
+    {
+      "id": "faixa-012",
+      "title": "The time",
+      "artist": "",
+      "album": "",
+      "source": "music/The Time.mp3",
+      "cover": "",
+      "duration": 0
+    },
   ]
 }
